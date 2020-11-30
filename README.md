@@ -1,3 +1,6 @@
+<svg version="1.1" id="Ebene_1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" height="100px" viewBox="0 0 250 100">
 <style>
   body {
     background: #131214;
@@ -242,4 +245,5 @@
   <div class="text">ACCESS DENIED</div>
   <div class="text">ACCESS DENIED</div>
 </div>
+</svg>
   
